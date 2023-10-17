@@ -1,0 +1,8 @@
+C:\Users\MEHMET EFE\source\repos\atm1\atm1\bin\Debug\atm1.exe.config
+C:\Users\MEHMET EFE\source\repos\atm1\atm1\bin\Debug\atm1.exe
+C:\Users\MEHMET EFE\source\repos\atm1\atm1\bin\Debug\atm1.pdb
+C:\Users\MEHMET EFE\source\repos\atm1\atm1\obj\Debug\atm1.csproj.AssemblyReference.cache
+C:\Users\MEHMET EFE\source\repos\atm1\atm1\obj\Debug\atm1.csproj.SuggestedBindingRedirects.cache
+C:\Users\MEHMET EFE\source\repos\atm1\atm1\obj\Debug\atm1.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET EFE\source\repos\atm1\atm1\obj\Debug\atm1.exe
+C:\Users\MEHMET EFE\source\repos\atm1\atm1\obj\Debug\atm1.pdb
